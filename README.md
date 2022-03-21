@@ -5,13 +5,13 @@
 ### 1.Train
 Train a CIL model on SYSU-MM01,
 
-'''
+```
 sh z_train.sh
-'''
+```
 
 ### 2.Test
 Evaluate the CIL model on SYSU-MM01,
 
-'''
+```
 sh z_test.sh
-'''
+```
